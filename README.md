@@ -2,7 +2,7 @@
 
 **Coordenador | ParkService**  
 Operação crítica de estacionamentos (**NEPOS/WPS/LinkC**) • Infra + Servidores (Windows / Linux básico-médio) • CFTV (Intelbras/Hikvision)  
-Software para operação: **React • Flutter • WebSocket** | Monitoramento: **C# / WPF**
+Software para operação: **React • Flutter • WebSocket** | Monitoramento: **C# / WPF / NET.8**
 
 ## O que eu faço
 - Manutenção corretiva/preventiva e estabilização de operação em campo (alta disponibilidade)
