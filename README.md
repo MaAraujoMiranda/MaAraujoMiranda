@@ -1,6 +1,6 @@
 # Mateus de Araújo Miranda
 
-**Coordenador | ParkService**  
+**Coordenador**  
 Operação crítica de estacionamentos (**NEPOS/WPS/LinkC**) • Infra + Servidores (Windows / Linux básico-médio) • CFTV (Intelbras/Hikvision)  
 Software para operação: **React • Flutter • WebSocket** | Monitoramento: **C# / WPF / NET.8**
 
