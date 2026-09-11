@@ -11,7 +11,7 @@ Software para operação: **React • Flutter • WebSocket** | Monitoramento: *
 
 ## Projetos (vitrine)
 - **App Chamado** — Sistema de chamados (Web + App) com tempo real (WebSocket), fotos e PDF  
-  Site: https://appchamado.com
+  Site: https://appchamado.com/apresentacao
 - **MTS Easy Parking** — Sistema de estacionamento (fase final de testes)  
   Site: https://mtseasyparking.com.br
 - **Monitor de Integração (C#/WPF)** — visibilidade e troubleshooting de integração em operação
