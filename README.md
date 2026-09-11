@@ -17,5 +17,5 @@ Software para operação: **React • Flutter • WebSocket** | Monitoramento: *
 - **Monitor de Integração (C#/WPF)** — visibilidade e troubleshooting de integração em operação
 
 ## Contato
-- LinkedIn: https://www.linkedin.com/in/matheusaraujotecnicotiemanutencao
+- LinkedIn: https://www.linkedin.com/in/matheus-araujo-dev-tec
 - Email: mateusaraujomiranda23@gmail.com
